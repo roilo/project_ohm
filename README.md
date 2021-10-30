@@ -3,6 +3,8 @@
 
 Calculates resistance of a resistor using color codes.
 
+Framework: **.NET Framework 4.6.1**
+
 ## How to run/execute
 Find and run `Resistor.exe` in `project_ohm\Resistor\Object\Release`.
 
