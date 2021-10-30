@@ -1,0 +1,10 @@
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\bin\Release\Resistor.exe.config
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\bin\Release\Resistor.exe
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\bin\Release\Resistor.pdb
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.Interface.resources
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.Properties.Resources.resources
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.csproj.GenerateResource.cache
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.exe
+C:\Users\Poseidon\Documents\GitHub\project_ohm\Resistor\obj\Release\Resistor.pdb
