@@ -9,5 +9,5 @@ Framework: **.NET Framework 4.6.1**
 Find and run `Resistor.exe` in `project_ohm\Resistor\Object\Release`.
 
 ## Changelog
-**10-31-2021**: Remade UI and code to be simple as possible using current knowledge of C#.
-**05-27-2022**: Edited Readme for clarity.
+* **10-31-2021**: Remade UI and code to be simple as possible using current knowledge of C#.
+* **05-27-2022**: Edited Readme for clarity.
